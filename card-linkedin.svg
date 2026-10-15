@@ -1,0 +1,8 @@
+<svg width="200" height="48" viewBox="0 0 200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="199" height="47" rx="8" fill="#0D1117" stroke="#30363D"/>
+  <rect x="8" y="8" width="32" height="32" rx="6" fill="#161B22"/>
+  <!-- LinkedIn Icon -->
+  <path d="M19 19.5H21.5V28H19V19.5ZM20.25 16C19.45 16 18.8 16.65 18.8 17.45C18.8 18.25 19.45 18.9 20.25 18.9C21.05 18.9 21.7 18.25 21.7 17.45C21.7 16.65 21.05 16 20.25 16ZM22.5 19.5H24.9V20.7H24.95C25.28 20.08 26.08 19.3 27.5 19.3C30.2 19.3 30.7 21.08 30.7 23.38V28H28.2V24.08C28.2 23.14 28.18 21.94 26.9 21.94C25.6 21.94 25.4 22.95 25.4 24V28H22.9V19.5H22.5Z" fill="#0A66C2"/>
+  <text x="48" y="21" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11.5" font-weight="600">LinkedIn</text>
+  <text x="48" y="34" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="8.5">/in/murilo-fornel...</text>
+</svg>

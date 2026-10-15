@@ -5,17 +5,18 @@
 
 <br/>
 
-<a href="https://wa.me/5519971691868">
-  <img src="https://img.shields.io/badge/WhatsApp-+55_19_97169--1868-2443D6?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<!-- Canais Oficiais de Contato & Redes Sociais -->
+<a href="https://wa.me/5519971691868" target="_blank">
+  <img src="./card-whatsapp.svg" alt="WhatsApp" width="206" />
 </a>
-<a href="mailto:murilofdal@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-murilofdal@gmail.com-0E0E0E?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+<a href="mailto:murilofdal@gmail.com" target="_blank">
+  <img src="./card-email.svg" alt="E-mail" width="206" />
 </a>
-<a href="https://teralis.pro">
-  <img src="https://img.shields.io/badge/Website-teralis.pro-0E0E0E?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+<a href="https://teralis.pro" target="_blank">
+  <img src="./card-website.svg" alt="Website" width="206" />
 </a>
-<a href="https://www.linkedin.com/in/murilo-fornel-de-almeida/">
-  <img src="https://img.shields.io/badge/LinkedIn-/in/murilo--fornel--de--almeida-0E0E0E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/murilo-fornel-de-almeida/" target="_blank">
+  <img src="./card-linkedin.svg" alt="LinkedIn" width="206" />
 </a>
 
 <br/><br/>

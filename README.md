@@ -7,16 +7,16 @@
 
 <!-- Canais Oficiais de Contato & Redes Sociais -->
 <a href="https://wa.me/5519971691868" target="_blank">
-  <img src="./card-whatsapp.svg" alt="WhatsApp" width="206" />
+  <img src="./card-whatsapp.svg" alt="WhatsApp" width="194" />
 </a>
 <a href="mailto:murilofdal@gmail.com" target="_blank">
-  <img src="./card-email.svg" alt="E-mail" width="206" />
+  <img src="./card-email.svg" alt="E-mail" width="194" />
 </a>
 <a href="https://teralis.pro" target="_blank">
-  <img src="./card-website.svg" alt="Website" width="206" />
+  <img src="./card-website.svg" alt="Website" width="194" />
 </a>
 <a href="https://www.linkedin.com/in/murilo-fornel-de-almeida/" target="_blank">
-  <img src="./card-linkedin.svg" alt="LinkedIn" width="206" />
+  <img src="./card-linkedin.svg" alt="LinkedIn" width="194" />
 </a>
 
 <br/><br/>

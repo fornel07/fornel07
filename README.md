@@ -22,9 +22,8 @@
 <br/><br/>
 
 <!-- Spotify Embed: From the Start - Good Kid -->
-<p align="center">
-  <sub><b>Relaxe enquanto lê</b></sub>
-</p>
+### Relaxe enquanto lê
+
 <p align="center">
   <a href="https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr?si=2ecfc902ec7b43f1" target="_blank">
     <img src="./spotify-embed.svg" width="100%" alt="Spotify — From the Start by Good Kid" />
